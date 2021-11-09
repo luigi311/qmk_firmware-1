@@ -3,11 +3,11 @@
 #include "config_common.h"
 
 /* USB Device descriptor parameter */
-#define VENDOR_ID       0x4C47 // LG
-#define PRODUCT_ID      0x0001
-#define DEVICE_VER      0x0001
-#define MANUFACTURER    Luigi311
-#define PRODUCT         Stream Cheap
+#define VENDOR_ID 0x7363  // Stream Cheap
+#define PRODUCT_ID 0x1214
+#define DEVICE_VER 0x0001
+#define MANUFACTURER Stream Cheap
+#define PRODUCT 2x4
 
 /* key matrix size */
 #define MATRIX_ROWS 2
